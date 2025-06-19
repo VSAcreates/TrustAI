@@ -1,0 +1,68 @@
+2025-04-04 13:45:34,809 - ERROR - Error loading data: [Errno 2] No such file or directory: './data/fraud_call_data.csv'
+2025-04-04 13:45:34,810 - ERROR - Error training model: [Errno 2] No such file or directory: './data/fraud_call_data.csv'
+2025-04-04 14:34:56,289 - INFO - Selected model: LogisticRegression with accuracy: 0.8750
+2025-04-04 14:36:58,785 - INFO - Selected model: LogisticRegression with accuracy: 0.8750
+2025-04-04 14:37:57,759 - INFO - Selected model: LogisticRegression with accuracy: 0.8750
+2025-04-04 14:38:37,960 - INFO - Selected model: LogisticRegression with accuracy: 0.8750
+2025-04-04 14:52:08,437 - ERROR - Error loading data: [Errno 2] No such file or directory: 'fraud_call_data.csv'
+2025-04-04 14:52:08,506 - ERROR - Error training model: [Errno 2] No such file or directory: 'fraud_call_data.csv'
+2025-04-04 14:52:22,616 - ERROR - Error loading data: [Errno 2] No such file or directory: 'fraud_call_data.csv'
+2025-04-04 14:52:22,617 - ERROR - Error training model: [Errno 2] No such file or directory: 'fraud_call_data.csv'
+2025-04-04 14:57:48,528 - ERROR - Error loading data: [Errno 2] No such file or directory: 'fraud_call_data.csv'
+2025-04-04 14:57:48,529 - ERROR - Error training model: [Errno 2] No such file or directory: 'fraud_call_data.csv'
+2025-04-04 14:58:50,777 - INFO - Selected model: LogisticRegression with accuracy: 0.8750
+2025-04-04 14:58:54,489 - INFO - Starting recording to call_recording_20250404_145854.wav...
+2025-04-04 14:59:03,537 - INFO - Recording saved as call_recording_20250404_145854.wav
+2025-04-04 14:59:05,594 - INFO - Transcribed text (en-IN): hello aur kya chal raha hai bhai
+2025-04-04 14:59:21,013 - INFO - Starting recording to call_recording_20250404_145921.wav...
+2025-04-04 14:59:36,006 - INFO - Recording saved as call_recording_20250404_145921.wav
+2025-04-04 14:59:40,551 - INFO - Transcribed text (en-IN): hello main Canara bank se baat karna KYC details update
+2025-04-04 14:59:52,520 - INFO - Starting recording to call_recording_20250404_145952.wav...
+2025-04-04 15:00:18,619 - INFO - Starting recording to call_recording_20250404_150018.wav...
+2025-04-04 15:00:21,174 - INFO - Recording saved as call_recording_20250404_145952.wav
+2025-04-04 15:00:21,239 - INFO - Recording saved as call_recording_20250404_150018.wav
+2025-04-04 15:00:24,069 - WARNING - Could not understand audio
+2025-04-04 15:00:30,664 - INFO - Starting recording to call_recording_20250404_150030.wav...
+2025-04-04 15:00:50,440 - INFO - Recording saved as call_recording_20250404_150030.wav
+2025-04-04 15:00:56,843 - INFO - Transcribed text (en-IN): main Sachin bol raha hun Canara bank se KYC details updated Nahin Hai To unko update karne ke liye main aapki Kuchh account details lagenge Jaise Kisi bhi ATM card number
+2025-04-04 15:00:58,889 - INFO - Starting recording to call_recording_20250404_150058.wav...
+2025-04-04 15:01:09,624 - INFO - Recording saved as call_recording_20250404_150058.wav
+2025-04-04 15:01:14,243 - INFO - Transcribed text (en-IN): congretchulation Sar aapko lottery lagi hai aap hajar karod rupaye Jeet rahe hain Sar aapko bumper offer ka price Inam Diya jata hai
+2025-04-04 15:01:33,289 - INFO - Starting recording to call_recording_20250404_150133.wav...
+2025-04-04 15:01:49,956 - INFO - Starting recording to call_recording_20250404_150149.wav...
+2025-04-04 15:01:56,912 - INFO - Recording saved as call_recording_20250404_150133.wav
+2025-04-04 15:01:56,994 - INFO - Recording saved as call_recording_20250404_150149.wav
+2025-04-04 15:01:58,739 - INFO - Starting recording to call_recording_20250404_150158.wav...
+2025-04-04 15:02:00,843 - WARNING - Could not understand audio
+2025-04-04 15:02:02,157 - INFO - Recording saved as call_recording_20250404_150158.wav
+2025-04-04 15:02:06,781 - WARNING - Could not understand audio
+2025-04-04 15:02:09,310 - INFO - Starting recording to call_recording_20250404_150209.wav...
+2025-04-04 15:02:31,310 - INFO - Recording saved as call_recording_20250404_150209.wav
+2025-04-04 15:02:39,074 - INFO - Transcribed text (en-IN): Dhamaka Dhamaka Dhamaka congretchulation karna chahie process
+2025-04-04 15:02:44,492 - INFO - Starting recording to call_recording_20250404_150244.wav...
+2025-04-04 15:03:04,998 - INFO - Recording saved as call_recording_20250404_150244.wav
+2025-04-04 15:03:09,872 - INFO - Transcribed text (en-IN): 1 2 3 4 5 6 7 8 9 10 11 12 scam 13 scam 14 scam 15
+2025-04-04 15:03:33,674 - INFO - Starting recording to call_recording_20250404_150333.wav...
+2025-04-04 15:04:08,298 - INFO - Recording saved as call_recording_20250404_150333.wav
+2025-04-04 15:04:20,336 - INFO - Transcribed text (en-IN): Dhamaka Dhamaka Dhamaka aapko 1 lakh ki lottery Lagi Hai Kya yah lottery Jitna Chahenge aapke account mein transfer kar di Jayegi bus uske liye aapko Koi details dene Honge Hamen yah details Ham Mang rahe hain Kyunki Hamen paise direct aapke account mein transfer Karne hain to kripya Karke aap apne account details bataen to aapko account pane ke liye ATM card ke upar Jo number likha hai vah Hamen lagega lottery number match kar rahi hai
+2025-04-04 16:06:17,335 - INFO - Selected model: LogisticRegression with accuracy: 0.8750
+2025-04-04 16:07:08,650 - INFO - Selected model: LogisticRegression with accuracy: 0.8750
+2025-04-04 16:30:53,052 - INFO - Selected model: LogisticRegression with accuracy: 0.8750
+2025-04-04 16:31:20,020 - INFO - Starting recording to call_recording_20250404_163120.wav...
+2025-04-04 16:31:33,196 - INFO - Starting recording to call_recording_20250404_163133.wav...
+2025-04-04 16:31:37,362 - INFO - Recording saved as call_recording_20250404_163120.wav
+2025-04-04 16:31:37,472 - INFO - Recording saved as call_recording_20250404_163133.wav
+2025-04-04 16:31:41,071 - WARNING - Could not understand audio
+2025-04-04 16:31:43,220 - INFO - Starting recording to call_recording_20250404_163143.wav...
+2025-04-04 16:31:52,356 - INFO - Recording saved as call_recording_20250404_163143.wav
+2025-04-04 16:31:54,990 - INFO - Transcribed text (en-IN): Alok Sachin hair could you send me the notes of maths
+2025-04-04 16:32:07,640 - INFO - Starting recording to call_recording_20250404_163207.wav...
+2025-04-04 16:32:22,763 - INFO - Recording saved as call_recording_20250404_163207.wav
+2025-04-04 16:32:27,992 - INFO - Transcribed text (en-IN): hi I am Sachin from Canara Bank actually mam aapka e KYC update karna tha to uske liye mujhe kuchh ATM details ka retirement hai aur OTP ka retirement ka kya aap mujhe vah send kar denge
+2025-04-04 16:32:30,333 - INFO - Starting recording to call_recording_20250404_163230.wav...
+2025-04-04 16:32:38,362 - INFO - Recording saved as call_recording_20250404_163230.wav
+2025-04-04 16:32:43,064 - INFO - Transcribed text (en-IN): I am Sachin from Canara Bank could you please like
+2025-04-04 16:32:45,029 - INFO - Starting recording to call_recording_20250404_163245.wav...
+2025-04-04 16:33:02,652 - INFO - Recording saved as call_recording_20250404_163245.wav
+2025-04-04 16:33:09,539 - INFO - Transcribed text (en-IN): hi this is Sachin from Canara Bank actually my you haven't made your e KYC details so to verify your KYC details in a bank account we are required some details like your ATM card number CVV or OTP things could you please send me that
+2025-04-04 16:34:06,891 - INFO - Transcribed text (en-IN): calling you from Canara Bank just check your account details that I have found you have not updated your KYC till now so would you like to update this sir why the keyword is required just to verify your account details or your Aadhar card pan card system
